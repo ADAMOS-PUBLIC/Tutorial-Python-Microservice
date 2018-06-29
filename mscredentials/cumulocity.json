@@ -1,0 +1,10 @@
+{
+	"apiVersion":"1",
+	"version":"1.9",
+	"provider": {
+  		"name":"Adamos GmbH"
+	},
+	"isolation":"PER_TENANT",
+	"requiredRoles": ["ROLE_INVENTORY_READ","ROLE_APPLICATION_MANAGEMENT_ADMIN"],
+	"roles":[]
+}
